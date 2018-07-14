@@ -1,0 +1,68 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+#paginate default 10
+paginate        = 5
+#SectionPagesMenu = "main"
+
+
+[params]
+  title       = "FSN Website"
+  subtitle    = "My awesome site using Casper"
+
+  cover       = "img/header.jpg"
+  description = "FS Nicholas Website"
+  # Your copyright notice - appears in site footer.
+  # To display a copyright symbol, type `&copy;`.
+  #copyright = "&copy; Frank Nicholas 2018"
+  copyright = ["&copy; 2018"]
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "fsnicholas"
+  fbName = "frank.nicholas"
+  githubName = "fsnicholas"
+
+#  logo = "hugo-logo.png"
+# if no icon will use the title 
+  logo = ""
+  orgName = "FSNicholas"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Frank Nicholas"
+  authorAvatar = "img/fsn2.jpg"
+  authorLocation = "Adelaide, Australia"
+  authorWebsite = "https://fsnicholas.net"
+  authorDescription = "IT Architect"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Project"
+  url = "/tags/project/"
+  weight = 100
+
+[[menu.main]]
+  name = "R Programming"
+  url = "/categories/r-prog/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
