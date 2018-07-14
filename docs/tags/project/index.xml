@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on </title>
-    <link>/tags/project/</link>
+    <link>https://fsnicholas.github.io/casper2/tags/project/</link>
     <description>Recent content in Project on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 13 Jul 2018 15:30:13 +0930</lastBuildDate>
     
-	<atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fsnicholas.github.io/casper2/tags/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>/my-first-post/</link>
+      <link>https://fsnicholas.github.io/casper2/my-first-post/</link>
       <pubDate>Fri, 13 Jul 2018 15:30:13 +0930</pubDate>
       
-      <guid>/my-first-post/</guid>
+      <guid>https://fsnicholas.github.io/casper2/my-first-post/</guid>
       <description></description>
     </item>
     

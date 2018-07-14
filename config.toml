@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://fsnicholas.github.io/casper2/"
 theme           = "casper-two"
 publishDir      = "docs"
 languageCode    = "en-US"
