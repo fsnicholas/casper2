@@ -1,5 +1,6 @@
 baseurl         = "/"
 theme           = "casper-two"
+publishDir      = "docs"
 languageCode    = "en-US"
 disqusShortname = ""
 #paginate default 10
@@ -15,8 +16,8 @@ paginate        = 5
   description = "FS Nicholas Website"
   # Your copyright notice - appears in site footer.
   # To display a copyright symbol, type `&copy;`.
-  #copyright = "&copy; Frank Nicholas 2018"
-  copyright = ["&copy; 2018"]
+  copyright = "© 2018"
+  #copyright = ["&copy; 2018"]
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -29,6 +30,7 @@ paginate        = 5
 #  logo = "hugo-logo.png"
 # if no icon will use the title 
   logo = ""
+  #orgName = ""
   orgName = "FSNicholas"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
